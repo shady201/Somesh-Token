@@ -1,3 +1,3 @@
 # Somesh Token
 Token deployed on Ropsten test net.
-Created smart contract on Remix Ethereum IDE.
+Created using smart contract on Remix Ethereum IDE.
